@@ -1,39 +1,48 @@
-# To-Do List App
+<div align="center">
 
-A simple, responsive to-do list web app built with HTML, CSS, and JavaScript.
+# 📝 To-Do List Application
 
-## Overview
+An intuitive, lightweight, and modern task management application built to help you organize your daily workflow and boost productivity.
 
-This lightweight app helps you add, manage, and complete tasks with a clean interface. It stores your list locally in the browser so your tasks remain available after refreshing the page.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
 
-## Features
+[Features](#-key-features) • [Tech Stack](#%EF%B8%8F-tech-stack) • [Getting Started](#-getting-started) • [Usage](#-usage) • [Contributing](#-contributing)
 
-- Add new tasks with a minimum of 5 characters
-- Mark tasks as completed using checkboxes
-- Delete tasks with confirmation
-- Filter tasks by:
-  - All
-  - Active
-  - Completed
-- Clear all completed tasks in one click
-- Local storage persistence for saved tasks
+</div>
 
-## How to Use the App
+---
 
-1. Open `index.html` in your browser.
-2. Enter a task and click **Add** or press **Enter**.
-3. Check the box to mark tasks complete.
-4. Delete tasks with the `×` button.
-5. Filter between **All**, **Active**, and **Completed**.
+## ✨ Key Features
 
-## Project Structure
+- ➕ **Task Creation**: Fast and seamless task addition with customizable details.
+- ✅ **Completion Tracking**: Easily mark tasks as complete or pending.
+- 🗑️ **Task Management**: Simple options to edit or remove completed/outdated tasks.
+- 🎨 **Clean & Responsive UI**: Designed for a smooth experience across desktop and mobile browsers.
+- 💾 **Persistent Data**: Keeps your task list saved locally so you never lose track.
 
-- `index.html` - app layout and UI structure
-- `styles.css` - styles for the to-do list interface
-- `app.js` - app logic, task management, filtering, and local storage
+---
 
-## Project Structure
+## 🛠️ Tech Stack
 
-- `index.html` - app layout and UI structure
-- `styles.css` - styles for the to-do list interface
-- `app.js` - app logic, task management, filtering, and local storage
+- **Frontend**: HTML5, CSS3, JavaScript (ES6+)
+- **Storage**: LocalStorage API
+- **Icons**: Font Awesome / SVG Icons
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally on your machine.
+
+### Prerequisites
+
+You only need a modern web browser installed (e.g., Google Chrome, Mozilla Firefox, Microsoft Edge, Safari).
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/vedantmb07/To-Do-List-App.git](https://github.com/vedantmb07/To-Do-List-App.git)
+   ```
