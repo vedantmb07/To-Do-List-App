@@ -54,7 +54,7 @@ cd To-Do-List-App
 ```
 
 3. Open the application:
-   Open `[index.html](index.html)` directly in your browser, or serve it using a local development server like VS Code's Live Server extension.
+   Open [index.html](index.html) directly in your browser, or serve it using a local development server like VS Code's Live Server extension.
 
 ---
 
