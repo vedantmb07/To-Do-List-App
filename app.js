@@ -13,6 +13,10 @@ const dayNames = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Satur
 let currentFilter = "all";
 let pendingDeleteId = null;
 let appState = {
+    selectedDay: getTodayName(),
+    lists: {},
+};
+
 function getTodayName() {
     return dayNames[new Date().getDay() === 0 ? 6 : new Date().getDay() - 1];
 }
